@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "0db26a7c1042c3e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6641e4453109f78e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a52775bd238b64f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ef24c15c62a77c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef7f9d95c31ed14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10199c08592baf11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84b21ba1e063e19d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "043254c9ed46743b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 512.5
+  },
+  "right": {
+    "id": "23e81632f4f23c97",
+    "type": "split",
+    "children": [
+      {
+        "id": "74394b248a95cb1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4c49182948dfb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af43308667024d59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c43ab8f57b12e8ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c99f830412781e77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "10199c08592baf11",
+  "lastOpenFiles": [
+    "images",
+    "photography_method/README.md",
+    "README.md",
+    "lobachevsky/lection_1.md",
+    "lobachevsky/README.md",
+    "index.md",
+    "knots/lection_1.md",
+    "knots/lection_2.md",
+    "knots/README.md",
+    "photography_method/lection_1.5.md",
+    "photography_method/lection_1.md",
+    "lobachevsky/images/lection_01_12.png",
+    "lobachevsky/images/lection_01_11.png",
+    "lobachevsky/images/lection_01_13.png",
+    "lobachevsky/images/lection_01_14.png",
+    "lobachevsky/images/lection_01_01.png",
+    "lobachevsky/images/lection_01_10.png",
+    "lobachevsky/images/lection_01_09.png",
+    "lobachevsky/images/lection_01_08.png",
+    "lobachevsky/images/lection_01_07.png",
+    "lobachevsky/images/lection_01_06.png",
+    "lobachevsky/images",
+    "lobachevsky/obsidaian/Геометрия/Лекция 1. Пятый постулат Евклида. Сумма углов треугольника..md",
+    "lobachevsky/obsidaian/Геометрия",
+    "lobachevsky/obsidaian",
+    "lobachevsky/obsidaian.zip",
+    "Untitled.md",
+    "lobachevsky",
+    "conspectus-knots.git",
+    "tailwind.config.js",
+    "lection_1.md",
+    "lection_1.5.md",
+    "config.mjs",
+    "knots/images",
+    "knots",
+    "lecture_1.md",
+    "conspectus-knots.git/knots/lecture_2.md",
+    "conspectus-knots.git/knots/lecture_1.md",
+    "conspectus-knots.git/lection_1.md",
+    "conspectus-knots.git/lection_1.5.md",
+    "conspectus-knots.git/index.md",
+    "conspectus-knots.git/README.md",
+    "md/Статья.md",
+    "hw/корепанов.md",
+    "hw/зацепления.md",
+    "lecture_2.md"
+  ]
+}
